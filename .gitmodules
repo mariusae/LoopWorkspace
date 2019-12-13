@@ -1,6 +1,3 @@
-[submodule "Loop"]
-	path = Loop
-	url = https://github.com/LoopKit/Loop.git
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/LoopKit/LoopKit.git
@@ -25,3 +22,6 @@
 [submodule "MKRingProgressView"]
 	path = MKRingProgressView
 	url = https://github.com/LoopKit/MKRingProgressView.git
+[submodule "Loop"]
+	path = Loop
+	url = https://github.com/mariusae/Loop.git
